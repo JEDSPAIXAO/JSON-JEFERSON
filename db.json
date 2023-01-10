@@ -1,0 +1,37 @@
+{
+    "LivrosAutoAjuda":[
+        {
+            "nome":"Pega visao",
+            "autor":"Rick",
+            "ano":"2018",
+            "id":"1"
+        }
+    ],
+
+    "LivrosAventura":[
+        {
+            "nome":"Pega visao",
+            "autor":"Rick",
+            "ano":"2018",
+            "id":"1"
+        }
+    ],
+
+    "LivrosRomances":[
+        {
+            "nome":"Pega visao",
+            "autor":"Rick",
+            "ano":"2018",
+            "id":"1"
+        }
+    ],
+
+    "LivrosDrama":[
+        {
+            "nome":"Pega visao",
+            "autor":"Rick",
+            "ano":"2018",
+            "id":"1"
+        }
+    ]
+}
