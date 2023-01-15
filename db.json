@@ -1,37 +1,37 @@
 {
     "LivrosAutoAjuda":[
         {
-            "nome":"Pega visao",
-            "autor":"Rick",
+            "nome":"Pai Rico,Pai Pobre",
+            "autor":"Robert T. KiyosakiRobert",
             "ano":"2018",
             "id":"1"
         }
     ],
 
-    "LivrosAventura":[
+    "LivrosBiografias":[
         {
-            "nome":"Pega visao",
-            "autor":"Rick",
+            "nome":"Minha História",
+            "autor":" Michelle Obama",
             "ano":"2018",
-            "id":"1"
+            "id":"2"
         }
     ],
 
-    "LivrosRomances":[
+    "LivrosManga":[
         {
-            "nome":"Pega visao",
-            "autor":"Rick",
-            "ano":"2018",
-            "id":"1"
+            "nome":"Cavaleiros do Zodíaco,Vol.3",
+            "autor":"Masami Kurumada ",
+            "ano":"2023",
+            "id":"3"
         }
     ],
 
-    "LivrosDrama":[
+    "LivrosFicçao":[
         {
-            "nome":"Pega visao",
-            "autor":"Rick",
-            "ano":"2018",
-            "id":"1"
+            "nome":"Harry Potter e a Pedra Filosofal: 1",
+            "autor":"J.K. Rowling",
+            "ano":"2017",
+            "id":"4"
         }
     ]
 }
